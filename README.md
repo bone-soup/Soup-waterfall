@@ -24,6 +24,5 @@ doma.setAttribute('class','item waterItem');
 arr.push(doma);
 myWaterfall.addItem(arr);
 ```
-
 ## compatibility
 主流浏览器，IE9及以上
